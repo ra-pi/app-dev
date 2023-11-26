@@ -2,7 +2,8 @@
 My first repository
 ## One Punch Man
 ### Bungo Stray Dogs
-**One Piece** \n
+**One Piece** 
+
 *Saiki K*
 > Gintama
 > Naruto
